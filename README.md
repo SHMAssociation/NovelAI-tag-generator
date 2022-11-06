@@ -2,7 +2,15 @@
 
 如果可以，使用的时候可以加个友链，或者注明一下出处，又写代码又整理tag挺辛苦的（^-^）
 
-生成器网址：https://wolfchen.top/tag/
+原生成器网址：https://wolfchen.top/tag/
+
+本仓库使用网址：https://shmassociation.github.io/NovelAI-tag-generator/
+
+本仓库对更适合嵌入到其他页面中使用
+```html
+<iframe src="https://shmassociation.github.io/NovelAI-tag-generator/" type="text/html" width="100%" height="1000"></iframe>
+```
+
 
 [![xq1qzQ.jpg](https://s1.ax1x.com/2022/11/03/xq1qzQ.jpg)](https://imgse.com/i/xq1qzQ)
 
